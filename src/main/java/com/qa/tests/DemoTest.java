@@ -14,10 +14,10 @@ public class DemoTest {
 		int a=100;
 		int b=30;
 		int c=20;
-		int d=100;
+		int d=200;
 		int e=60;
 		int f=150;
-		Assert.assertEquals(400, a+b+c+d+e+f);		
+		Assert.assertEquals(500, a+b+c+d+e+f);		
 	}
 	
 	@Test
